@@ -1,0 +1,15 @@
+Code rescued from the bottom of my backup harddrives.  If asked, I'll deny ever
+writing it :P.  I'm surprised it even works...
+
+Este proyecto es un intento de realizar un clon superchuli, superguay
+y superportable del "Devil Dice"(1). Ahora mismo usa solo usa GLUT, OpenGL
+y POSIX threads.
+La ingente cantidad de ficheros que existen son obra de XCode, ya que
+lo estoy desarrollando sobre Mac OS X, pero para que funcione en cualquier
+*NIX apenas debe ser necesario cambiar un par de includes y hacer un
+makefile. Si te animas dimelo y te doy una cuenta en el CVS.
+
+Para los que quieran jugar, por ahora solo es capaz de mover los dados
+sobre el tablero, aunque la animación que hace esta guay :D
+
+(1) http://psx.ign.com/articles/153/153896p1.html
